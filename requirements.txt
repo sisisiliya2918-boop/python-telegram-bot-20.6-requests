@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-requests
-urllib3
-cryptography
-protobuf
